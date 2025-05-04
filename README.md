@@ -15,7 +15,7 @@ Here I have used Azure Data Factory to pull the data from processed container an
 
 ## Visualization
 I have used Looker studio to build dashboard on top of data stored in Azure SQL.
-Dashboard Link : https://lookerstudio.google.com/u/0/reporting/15e4dca8-146d-44a2-9a45-b2ff9d21c4fb/page/lllLE
+Dashboard Link : https://lookerstudio.google.com/s/kJ2c-oL05QE
 
 All of the above tasks are Orchestrated using Apache Airflow and DAG is scheduled to run everyday.
 Below is snapshot of tasks.
